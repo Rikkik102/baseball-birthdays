@@ -1,0 +1,4682 @@
+[
+  {
+    "id": 642851,
+    "fullName": "Austin Wynns",
+    "birthDate": "1990-12-10",
+    "team": "Athletics"
+  },
+  {
+    "id": 667670,
+    "fullName": "Brent Rooker",
+    "birthDate": "1994-11-01",
+    "team": "Athletics"
+  },
+  {
+    "id": 687515,
+    "fullName": "Colby Thomas",
+    "birthDate": "2001-01-26",
+    "team": "Athletics"
+  },
+  {
+    "id": 672016,
+    "fullName": "Denzel Clarke",
+    "birthDate": "2000-05-01",
+    "team": "Athletics"
+  },
+  {
+    "id": 665660,
+    "fullName": "Elvis Alvarado",
+    "birthDate": "1999-02-23",
+    "team": "Athletics"
+  },
+  {
+    "id": 570482,
+    "fullName": "Gio Urshela",
+    "birthDate": "1991-10-11",
+    "team": "Athletics"
+  },
+  {
+    "id": 663687,
+    "fullName": "Hogan Harris",
+    "birthDate": "1996-12-26",
+    "team": "Athletics"
+  },
+  {
+    "id": 669372,
+    "fullName": "J.T. Ginn",
+    "birthDate": "1999-05-20",
+    "team": "Athletics"
+  },
+  {
+    "id": 676664,
+    "fullName": "JP Sears",
+    "birthDate": "1996-02-19",
+    "team": "Athletics"
+  },
+  {
+    "id": 678022,
+    "fullName": "Jack Perkins",
+    "birthDate": "1999-12-26",
+    "team": "Athletics"
+  },
+  {
+    "id": 682052,
+    "fullName": "Jacob Lopez",
+    "birthDate": "1998-03-11",
+    "team": "Athletics"
+  },
+  {
+    "id": 805779,
+    "fullName": "Jacob Wilson",
+    "birthDate": "2002-03-30",
+    "team": "Athletics"
+  },
+  {
+    "id": 605488,
+    "fullName": "Jeffrey Springs",
+    "birthDate": "1992-09-20",
+    "team": "Athletics"
+  },
+  {
+    "id": 686993,
+    "fullName": "Justin Sterner",
+    "birthDate": "1996-08-29",
+    "team": "Athletics"
+  },
+  {
+    "id": 671732,
+    "fullName": "Lawrence Butler",
+    "birthDate": "2000-07-10",
+    "team": "Athletics"
+  },
+  {
+    "id": 622663,
+    "fullName": "Luis Severino",
+    "birthDate": "1994-02-20",
+    "team": "Athletics"
+  },
+  {
+    "id": 695243,
+    "fullName": "Mason Miller",
+    "birthDate": "1998-08-24",
+    "team": "Athletics"
+  },
+  {
+    "id": 691777,
+    "fullName": "Max Muncy",
+    "birthDate": "2002-08-25",
+    "team": "Athletics"
+  },
+  {
+    "id": 680474,
+    "fullName": "Max Schuemann",
+    "birthDate": "1997-06-11",
+    "team": "Athletics"
+  },
+  {
+    "id": 547184,
+    "fullName": "Michael Kelly",
+    "birthDate": "1992-09-06",
+    "team": "Athletics"
+  },
+  {
+    "id": 687765,
+    "fullName": "Mitch Spence",
+    "birthDate": "1998-05-06",
+    "team": "Athletics"
+  },
+  {
+    "id": 701762,
+    "fullName": "Nick Kurtz",
+    "birthDate": "2003-03-12",
+    "team": "Athletics"
+  },
+  {
+    "id": 656794,
+    "fullName": "Sean Newcomb",
+    "birthDate": "1993-06-12",
+    "team": "Athletics"
+  },
+  {
+    "id": 669127,
+    "fullName": "Shea Langeliers",
+    "birthDate": "1997-11-18",
+    "team": "Athletics"
+  },
+  {
+    "id": 691016,
+    "fullName": "Tyler Soderstrom",
+    "birthDate": "2001-11-24",
+    "team": "Athletics"
+  },
+  {
+    "id": 680869,
+    "fullName": "Zack Gelof",
+    "birthDate": "1999-10-19",
+    "team": "Athletics"
+  },
+  {
+    "id": 624428,
+    "fullName": "Adam Frazier",
+    "birthDate": "1991-12-14",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 672744,
+    "fullName": "Alexander Canario",
+    "birthDate": "2000-05-07",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 571760,
+    "fullName": "Andrew Heaney",
+    "birthDate": "1991-06-05",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 457705,
+    "fullName": "Andrew McCutchen",
+    "birthDate": "1986-10-10",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 663559,
+    "fullName": "Bailey Falter",
+    "birthDate": "1997-04-24",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 677952,
+    "fullName": "Braxton Ashcraft",
+    "birthDate": "1999-10-05",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 668804,
+    "fullName": "Bryan Reynolds",
+    "birthDate": "1995-01-27",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 657571,
+    "fullName": "Caleb Ferguson",
+    "birthDate": "1996-07-02",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 669387,
+    "fullName": "Carmen Mlodzinski",
+    "birthDate": "1999-02-19",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 663767,
+    "fullName": "Chase Shugart",
+    "birthDate": "1996-10-24",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 670280,
+    "fullName": "David Bednar",
+    "birthDate": "1994-10-10",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 642701,
+    "fullName": "Dennis Santana",
+    "birthDate": "1996-04-12",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 650893,
+    "fullName": "Génesis Cabrera",
+    "birthDate": "1996-10-10",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 680779,
+    "fullName": "Henry Davis",
+    "birthDate": "1999-09-21",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 676755,
+    "fullName": "Isaac Mattson",
+    "birthDate": "1995-07-14",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 643396,
+    "fullName": "Isiah Kiner-Falefa",
+    "birthDate": "1995-03-23",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 669707,
+    "fullName": "Jared Triolo",
+    "birthDate": "1998-02-08",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 663698,
+    "fullName": "Joey Bart",
+    "birthDate": "1996-12-15",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 663647,
+    "fullName": "Ke'Bryan Hayes",
+    "birthDate": "1997-01-28",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 681347,
+    "fullName": "Mike Burrows",
+    "birthDate": "1999-11-08",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 656605,
+    "fullName": "Mitch Keller",
+    "birthDate": "1996-04-04",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 693304,
+    "fullName": "Nick Gonzales",
+    "birthDate": "1999-05-27",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 665833,
+    "fullName": "Oneil Cruz",
+    "birthDate": "1998-10-04",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 694973,
+    "fullName": "Paul Skenes",
+    "birthDate": "2002-05-29",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 687462,
+    "fullName": "Spencer Horwitz",
+    "birthDate": "1997-11-14",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 502054,
+    "fullName": "Tommy Pham",
+    "birthDate": "1988-03-08",
+    "team": "Pittsburgh Pirates"
+  },
+  {
+    "id": 670970,
+    "fullName": "Adrian Morejon",
+    "birthDate": "1999-02-27",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 663773,
+    "fullName": "Bryan Hoeing",
+    "birthDate": "1996-10-19",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 669369,
+    "fullName": "Bryce Johnson",
+    "birthDate": "1995-10-27",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 688158,
+    "fullName": "David Morgan",
+    "birthDate": "1999-10-26",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 656302,
+    "fullName": "Dylan Cease",
+    "birthDate": "1995-12-28",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 674384,
+    "fullName": "Eduarniel Núñez",
+    "birthDate": "1999-06-07",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 553869,
+    "fullName": "Elias Díaz",
+    "birthDate": "1990-11-17",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 665487,
+    "fullName": "Fernando Tatis Jr.",
+    "birthDate": "1999-01-02",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 657757,
+    "fullName": "Gavin Sheets",
+    "birthDate": "1996-04-23",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 701538,
+    "fullName": "Jackson Merrill",
+    "birthDate": "2003-04-19",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 630105,
+    "fullName": "Jake Cronenworth",
+    "birthDate": "1994-01-21",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 592094,
+    "fullName": "Jason Adam",
+    "birthDate": "1991-08-04",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 669093,
+    "fullName": "Jeremiah Estrada",
+    "birthDate": "1998-11-01",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 578428,
+    "fullName": "Jose Iglesias",
+    "birthDate": "1990-01-05",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 650333,
+    "fullName": "Luis Arraez",
+    "birthDate": "1997-04-09",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 592518,
+    "fullName": "Manny Machado",
+    "birthDate": "1992-07-06",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 455117,
+    "fullName": "Martín Maldonado",
+    "birthDate": "1986-08-16",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 601713,
+    "fullName": "Nick Pivetta",
+    "birthDate": "1993-02-14",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 681190,
+    "fullName": "Randy Vásquez",
+    "birthDate": "1998-11-03",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 663158,
+    "fullName": "Robert Suarez",
+    "birthDate": "1991-03-01",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 663568,
+    "fullName": "Stephen Kolek",
+    "birthDate": "1997-04-18",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 670092,
+    "fullName": "Trenton Brooks",
+    "birthDate": "1995-07-03",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 642180,
+    "fullName": "Tyler Wade",
+    "birthDate": "1994-11-23",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 593974,
+    "fullName": "Wandy Peralta",
+    "birthDate": "1991-07-27",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 593428,
+    "fullName": "Xander Bogaerts",
+    "birthDate": "1992-10-01",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 673513,
+    "fullName": "Yuki Matsui",
+    "birthDate": "1995-10-30",
+    "team": "San Diego Padres"
+  },
+  {
+    "id": 662253,
+    "fullName": "Andrés Muñoz",
+    "birthDate": "1999-01-16",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 810938,
+    "fullName": "Ben Williamson",
+    "birthDate": "2000-11-05",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 693433,
+    "fullName": "Bryan Woo",
+    "birthDate": "2000-01-30",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 663728,
+    "fullName": "Cal Raleigh",
+    "birthDate": "1996-11-26",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 672841,
+    "fullName": "Carlos Vargas",
+    "birthDate": "1999-10-13",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 668984,
+    "fullName": "Casey Legumina",
+    "birthDate": "1997-06-19",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 702284,
+    "fullName": "Cole Young",
+    "birthDate": "2003-07-29",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 686527,
+    "fullName": "Dominic Canzone",
+    "birthDate": "1997-08-16",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 456781,
+    "fullName": "Donovan Solano",
+    "birthDate": "1987-12-17",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 664238,
+    "fullName": "Dylan Moore",
+    "birthDate": "1992-08-02",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 660825,
+    "fullName": "Eduard Bazardo",
+    "birthDate": "1995-09-01",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 642100,
+    "fullName": "Gabe Speier",
+    "birthDate": "1995-04-12",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 669923,
+    "fullName": "George Kirby",
+    "birthDate": "1998-02-04",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 641487,
+    "fullName": "J.P. Crawford",
+    "birthDate": "1995-01-11",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 593871,
+    "fullName": "Jorge Polanco",
+    "birthDate": "1993-07-05",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 686228,
+    "fullName": "Juan Burgos",
+    "birthDate": "1999-12-22",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 677594,
+    "fullName": "Julio Rodríguez",
+    "birthDate": "2000-12-29",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 688138,
+    "fullName": "Logan Evans",
+    "birthDate": "2001-06-05",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 669302,
+    "fullName": "Logan Gilbert",
+    "birthDate": "1997-05-05",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 622491,
+    "fullName": "Luis Castillo",
+    "birthDate": "1992-12-12",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 670042,
+    "fullName": "Luke Raley",
+    "birthDate": "1994-09-19",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 666374,
+    "fullName": "Matt Brash",
+    "birthDate": "1998-05-12",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 670156,
+    "fullName": "Miles Mastrobuoni",
+    "birthDate": "1995-10-31",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 641598,
+    "fullName": "Mitch Garver",
+    "birthDate": "1991-01-15",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 668227,
+    "fullName": "Randy Arozarena",
+    "birthDate": "1995-02-28",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 663423,
+    "fullName": "Trent Thornton",
+    "birthDate": "1993-09-30",
+    "team": "Seattle Mariners"
+  },
+  {
+    "id": 668800,
+    "fullName": "Andrew Knizner",
+    "birthDate": "1995-02-03",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 689172,
+    "fullName": "Brett Wisely",
+    "birthDate": "1999-05-08",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 666808,
+    "fullName": "Camilo Doval",
+    "birthDate": "1997-07-04",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 642086,
+    "fullName": "Dominic Smith",
+    "birthDate": "1995-06-15",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 806185,
+    "fullName": "Hayden Birdsong",
+    "birthDate": "2001-08-30",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 671218,
+    "fullName": "Heliot Ramos",
+    "birthDate": "1999-09-07",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 664192,
+    "fullName": "Joey Lucchesi",
+    "birthDate": "1993-06-06",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 808982,
+    "fullName": "Jung Hoo Lee",
+    "birthDate": "1998-08-20",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 434378,
+    "fullName": "Justin Verlander",
+    "birthDate": "1983-02-20",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 694738,
+    "fullName": "Landen Roupp",
+    "birthDate": "1998-09-10",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 657277,
+    "fullName": "Logan Webb",
+    "birthDate": "1996-11-18",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 682641,
+    "fullName": "Luis Matos",
+    "birthDate": "2002-01-28",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 656305,
+    "fullName": "Matt Chapman",
+    "birthDate": "1993-04-28",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 573262,
+    "fullName": "Mike Yastrzemski",
+    "birthDate": "1990-08-23",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 672275,
+    "fullName": "Patrick Bailey",
+    "birthDate": "1999-05-29",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 646240,
+    "fullName": "Rafael Devers",
+    "birthDate": "1996-10-24",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 678495,
+    "fullName": "Randy Rodríguez",
+    "birthDate": "1999-09-05",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 592662,
+    "fullName": "Robbie Ray",
+    "birthDate": "1991-10-01",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 676254,
+    "fullName": "Ryan Walker",
+    "birthDate": "1995-11-26",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 518397,
+    "fullName": "Scott Alexander",
+    "birthDate": "1989-07-10",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 702352,
+    "fullName": "Spencer Bivens",
+    "birthDate": "1994-06-28",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 663941,
+    "fullName": "Tristan Beck",
+    "birthDate": "1996-06-24",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 666149,
+    "fullName": "Tyler Fitzgerald",
+    "birthDate": "1997-09-15",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 643511,
+    "fullName": "Tyler Rogers",
+    "birthDate": "1990-12-17",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 642715,
+    "fullName": "Willy Adames",
+    "birthDate": "1995-09-02",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 527038,
+    "fullName": "Wilmer Flores",
+    "birthDate": "1991-08-06",
+    "team": "San Francisco Giants"
+  },
+  {
+    "id": 676475,
+    "fullName": "Alec Burleson",
+    "birthDate": "1998-11-25",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 669467,
+    "fullName": "Andre Pallante",
+    "birthDate": "1998-09-18",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 680977,
+    "fullName": "Brendan Donovan",
+    "birthDate": "1997-01-16",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 607200,
+    "fullName": "Erick Fedde",
+    "birthDate": "1993-02-25",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 641658,
+    "fullName": "Garrett Hampson",
+    "birthDate": "1994-10-10",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 668941,
+    "fullName": "JoJo Romero",
+    "birthDate": "1996-09-09",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 667463,
+    "fullName": "John King",
+    "birthDate": "1994-09-14",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 665877,
+    "fullName": "José Fermín",
+    "birthDate": "1999-03-29",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 681517,
+    "fullName": "Kyle Leahy",
+    "birthDate": "1997-06-04",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 663457,
+    "fullName": "Lars Nootbaar",
+    "birthDate": "1997-09-08",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 691026,
+    "fullName": "Masyn Winn",
+    "birthDate": "2002-03-21",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 694335,
+    "fullName": "Matt Svanson",
+    "birthDate": "1999-01-31",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 669461,
+    "fullName": "Matthew Liberatore",
+    "birthDate": "1999-11-06",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 571945,
+    "fullName": "Miles Mikolas",
+    "birthDate": "1988-08-23",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 571448,
+    "fullName": "Nolan Arenado",
+    "birthDate": "1991-04-16",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 669357,
+    "fullName": "Nolan Gorman",
+    "birthDate": "2000-05-10",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 686780,
+    "fullName": "Pedro Pagés",
+    "birthDate": "1998-09-17",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 664208,
+    "fullName": "Phil Maton",
+    "birthDate": "1993-03-25",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 676617,
+    "fullName": "Riley O'Brien",
+    "birthDate": "1995-02-06",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 664854,
+    "fullName": "Ryan Helsley",
+    "birthDate": "1994-07-18",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 543243,
+    "fullName": "Sonny Gray",
+    "birthDate": "1989-11-07",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 571927,
+    "fullName": "Steven Matz",
+    "birthDate": "1991-05-29",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 695336,
+    "fullName": "Thomas Saggese",
+    "birthDate": "2002-04-10",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 687363,
+    "fullName": "Victor Scott II",
+    "birthDate": "2001-02-12",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 575929,
+    "fullName": "Willson Contreras",
+    "birthDate": "1992-05-13",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 650968,
+    "fullName": "Yohel Pozo",
+    "birthDate": "1997-06-14",
+    "team": "St. Louis Cardinals"
+  },
+  {
+    "id": 664040,
+    "fullName": "Brandon Lowe",
+    "birthDate": "1994-07-06",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 802415,
+    "fullName": "Chandler Simpson",
+    "birthDate": "2000-11-18",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 666624,
+    "fullName": "Christopher Morel",
+    "birthDate": "1999-06-24",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 643376,
+    "fullName": "Danny Jansen",
+    "birthDate": "1995-04-15",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 656876,
+    "fullName": "Drew Rasmussen",
+    "birthDate": "1995-07-27",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 670955,
+    "fullName": "Edwin Uceta",
+    "birthDate": "1998-01-09",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 679358,
+    "fullName": "Eric Orze",
+    "birthDate": "1997-08-21",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 664076,
+    "fullName": "Garrett Cleavinger",
+    "birthDate": "1994-04-23",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 673490,
+    "fullName": "Ha-Seong Kim",
+    "birthDate": "1995-10-17",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 663968,
+    "fullName": "Jake Mangum",
+    "birthDate": "1996-03-08",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 671212,
+    "fullName": "Joe Boyle",
+    "birthDate": "1999-08-14",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 666018,
+    "fullName": "Jonathan Aranda",
+    "birthDate": "1998-05-23",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 676609,
+    "fullName": "José Caballero",
+    "birthDate": "1996-08-30",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 666139,
+    "fullName": "Josh Lowe",
+    "birthDate": "1998-02-02",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 691406,
+    "fullName": "Junior Caminero",
+    "birthDate": "2003-07-05",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 687330,
+    "fullName": "Kevin Kelly",
+    "birthDate": "1997-11-28",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 682254,
+    "fullName": "Mason Montgomery",
+    "birthDate": "2000-06-17",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 642136,
+    "fullName": "Matt Thaiss",
+    "birthDate": "1995-05-06",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 801434,
+    "fullName": "Paul Gervase",
+    "birthDate": "2000-05-23",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 664126,
+    "fullName": "Pete Fairbanks",
+    "birthDate": "1993-12-16",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 686752,
+    "fullName": "Ryan Pepiot",
+    "birthDate": "1997-08-21",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 669358,
+    "fullName": "Shane Baz",
+    "birthDate": "1999-06-17",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 671737,
+    "fullName": "Taj Bradley",
+    "birthDate": "2001-03-20",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 670764,
+    "fullName": "Taylor Walls",
+    "birthDate": "1996-07-10",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 650490,
+    "fullName": "Yandy Díaz",
+    "birthDate": "1991-08-08",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 641793,
+    "fullName": "Zack Littell",
+    "birthDate": "1995-10-05",
+    "team": "Tampa Bay Rays"
+  },
+  {
+    "id": 666969,
+    "fullName": "Adolis García",
+    "birthDate": "1993-03-02",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 696030,
+    "fullName": "Alejandro Osuna",
+    "birthDate": "2002-10-10",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 455119,
+    "fullName": "Chris Martin",
+    "birthDate": "1986-06-02",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 608369,
+    "fullName": "Corey Seager",
+    "birthDate": "1994-04-27",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 641540,
+    "fullName": "Dane Dunning",
+    "birthDate": "1994-12-20",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 694497,
+    "fullName": "Evan Carter",
+    "birthDate": "2002-08-29",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 677649,
+    "fullName": "Ezequiel Duran",
+    "birthDate": "1999-05-22",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 571948,
+    "fullName": "Hoby Milner",
+    "birthDate": "1991-01-13",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 683004,
+    "fullName": "Jack Leiter",
+    "birthDate": "2000-04-21",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 656641,
+    "fullName": "Jacob Latz",
+    "birthDate": "1996-04-08",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 657097,
+    "fullName": "Jacob Webb",
+    "birthDate": "1993-08-15",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 594798,
+    "fullName": "Jacob deGrom",
+    "birthDate": "1988-06-19",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 669394,
+    "fullName": "Jake Burger",
+    "birthDate": "1996-04-10",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 641680,
+    "fullName": "Jonah Heim",
+    "birthDate": "1995-06-27",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 669701,
+    "fullName": "Josh Smith",
+    "birthDate": "1997-08-07",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 677958,
+    "fullName": "Kumar Rocker",
+    "birthDate": "1999-11-22",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 543309,
+    "fullName": "Kyle Higashioka",
+    "birthDate": "1990-04-20",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 592426,
+    "fullName": "Luke Jackson",
+    "birthDate": "1991-08-24",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 543760,
+    "fullName": "Marcus Semien",
+    "birthDate": "1990-09-17",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 680737,
+    "fullName": "Michael Helman",
+    "birthDate": "1996-05-23",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 543135,
+    "fullName": "Nathan Eovaldi",
+    "birthDate": "1990-02-13",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 571578,
+    "fullName": "Patrick Corbin",
+    "birthDate": "1989-07-19",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 676395,
+    "fullName": "Robert Garcia",
+    "birthDate": "1996-06-14",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 664059,
+    "fullName": "Sam Haggerty",
+    "birthDate": "1994-05-26",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 542888,
+    "fullName": "Shawn Armstrong",
+    "birthDate": "1990-09-11",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 694671,
+    "fullName": "Wyatt Langford",
+    "birthDate": "2001-11-15",
+    "team": "Texas Rangers"
+  },
+  {
+    "id": 680718,
+    "fullName": "Addison Barger",
+    "birthDate": "1999-11-12",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 672386,
+    "fullName": "Alejandro Kirk",
+    "birthDate": "1998-11-06",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 666182,
+    "fullName": "Bo Bichette",
+    "birthDate": "1998-03-05",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 680755,
+    "fullName": "Braydon Fisher",
+    "birthDate": "2000-07-26",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 663893,
+    "fullName": "Brendon Little",
+    "birthDate": "1996-08-11",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 643338,
+    "fullName": "Chad Green",
+    "birthDate": "1991-05-24",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 605135,
+    "fullName": "Chris Bassitt",
+    "birthDate": "1989-02-22",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 676914,
+    "fullName": "Davis Schneider",
+    "birthDate": "1999-01-26",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 641778,
+    "fullName": "Eric Lauer",
+    "birthDate": "1995-06-03",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 676391,
+    "fullName": "Ernie Clement",
+    "birthDate": "1996-03-22",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 543807,
+    "fullName": "George Springer",
+    "birthDate": "1989-09-19",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 656546,
+    "fullName": "Jeff Hoffman",
+    "birthDate": "1993-01-08",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 694388,
+    "fullName": "Joey Loperfido",
+    "birthDate": "1999-05-11",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 621244,
+    "fullName": "José Berríos",
+    "birthDate": "1994-05-27",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 592332,
+    "fullName": "Kevin Gausman",
+    "birthDate": "1991-01-06",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 677870,
+    "fullName": "Leo Jiménez",
+    "birthDate": "2001-05-17",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 453286,
+    "fullName": "Max Scherzer",
+    "birthDate": "1984-07-27",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 664702,
+    "fullName": "Myles Straw",
+    "birthDate": "1994-10-17",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 664770,
+    "fullName": "Nathan Lukes",
+    "birthDate": "1994-07-12",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 680704,
+    "fullName": "Nick Sandlin",
+    "birthDate": "1997-01-10",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 673820,
+    "fullName": "Robinson Piña",
+    "birthDate": "1998-11-26",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 621114,
+    "fullName": "Ryan Burr",
+    "birthDate": "1994-05-28",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 623168,
+    "fullName": "Tyler Heineman",
+    "birthDate": "1991-06-19",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 665489,
+    "fullName": "Vladimir Guerrero Jr.",
+    "birthDate": "1999-03-16",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 695238,
+    "fullName": "Will Wagner",
+    "birthDate": "1998-07-29",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 684320,
+    "fullName": "Yariel Rodríguez",
+    "birthDate": "1997-03-10",
+    "team": "Toronto Blue Jays"
+  },
+  {
+    "id": 592779,
+    "fullName": "Brock Stewart",
+    "birthDate": "1991-10-03",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 686797,
+    "fullName": "Brooks Lee",
+    "birthDate": "2001-02-14",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 621439,
+    "fullName": "Byron Buxton",
+    "birthDate": "1993-12-18",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 621043,
+    "fullName": "Carlos Correa",
+    "birthDate": "1994-09-22",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 663978,
+    "fullName": "Chris Paddack",
+    "birthDate": "1996-01-08",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 543877,
+    "fullName": "Christian Vázquez",
+    "birthDate": "1990-08-21",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 663485,
+    "fullName": "Cole Sands",
+    "birthDate": "1997-07-17",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 680577,
+    "fullName": "DaShawn Keirsey Jr.",
+    "birthDate": "1997-05-13",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 543056,
+    "fullName": "Danny Coulombe",
+    "birthDate": "1989-10-26",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 701581,
+    "fullName": "David Festa",
+    "birthDate": "2000-03-08",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 643377,
+    "fullName": "Griffin Jax",
+    "birthDate": "1994-11-22",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 664056,
+    "fullName": "Harrison Bader",
+    "birthDate": "1994-06-03",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 661395,
+    "fullName": "Jhoan Duran",
+    "birthDate": "1998-01-08",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 657746,
+    "fullName": "Joe Ryan",
+    "birthDate": "1996-06-05",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 666214,
+    "fullName": "Joey Wentz",
+    "birthDate": "1997-10-06",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 623437,
+    "fullName": "Justin Topa",
+    "birthDate": "1991-03-07",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 665019,
+    "fullName": "Kody Clemens",
+    "birthDate": "1996-05-15",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 686973,
+    "fullName": "Louis Varland",
+    "birthDate": "1997-12-09",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 670242,
+    "fullName": "Matt Wallner",
+    "birthDate": "1997-12-12",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 668904,
+    "fullName": "Royce Lewis",
+    "birthDate": "1999-06-05",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 680777,
+    "fullName": "Ryan Jeffers",
+    "birthDate": "1997-06-03",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 680573,
+    "fullName": "Simeon Woods Richardson",
+    "birthDate": "2000-09-27",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 701519,
+    "fullName": "Travis Adams",
+    "birthDate": "2000-01-19",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 663616,
+    "fullName": "Trevor Larnach",
+    "birthDate": "1997-02-26",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 664034,
+    "fullName": "Ty France",
+    "birthDate": "1994-07-13",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 650489,
+    "fullName": "Willi Castro",
+    "birthDate": "1997-04-24",
+    "team": "Minnesota Twins"
+  },
+  {
+    "id": 664761,
+    "fullName": "Alec Bohm",
+    "birthDate": "1996-08-03",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 669016,
+    "fullName": "Brandon Marsh",
+    "birthDate": "1997-12-18",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 547180,
+    "fullName": "Bryce Harper",
+    "birthDate": "1992-10-16",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 681082,
+    "fullName": "Bryson Stott",
+    "birthDate": "1997-10-06",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 650911,
+    "fullName": "Cristopher Sánchez",
+    "birthDate": "1996-12-12",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 642016,
+    "fullName": "Daniel Robert",
+    "birthDate": "1994-08-30",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 624641,
+    "fullName": "Edmundo Sosa",
+    "birthDate": "1996-03-06",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 592663,
+    "fullName": "J.T. Realmuto",
+    "birthDate": "1991-03-18",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 666200,
+    "fullName": "Jesús Luzardo",
+    "birthDate": "1997-09-30",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 605452,
+    "fullName": "Joe Ross",
+    "birthDate": "1993-05-21",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 679032,
+    "fullName": "Johan Rojas",
+    "birthDate": "2000-08-14",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 605447,
+    "fullName": "Jordan Romano",
+    "birthDate": "1993-04-21",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 656941,
+    "fullName": "Kyle Schwarber",
+    "birthDate": "1993-03-05",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 621381,
+    "fullName": "Matt Strahm",
+    "birthDate": "1991-11-12",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 596146,
+    "fullName": "Max Kepler",
+    "birthDate": "1993-02-10",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 676661,
+    "fullName": "Max Lazar",
+    "birthDate": "1999-06-03",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 592206,
+    "fullName": "Nick Castellanos",
+    "birthDate": "1992-03-04",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 689147,
+    "fullName": "Orion Kerkering",
+    "birthDate": "2001-04-04",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 805249,
+    "fullName": "Otto Kemp",
+    "birthDate": "1999-09-09",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 665561,
+    "fullName": "Rafael Marchán",
+    "birthDate": "1999-02-25",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 624133,
+    "fullName": "Ranger Suárez",
+    "birthDate": "1995-08-26",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 686751,
+    "fullName": "Seth Johnson",
+    "birthDate": "1998-09-19",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 592836,
+    "fullName": "Taijuan Walker",
+    "birthDate": "1992-08-13",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 621383,
+    "fullName": "Tanner Banks",
+    "birthDate": "1991-10-24",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 607208,
+    "fullName": "Trea Turner",
+    "birthDate": "1993-06-30",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 554430,
+    "fullName": "Zack Wheeler",
+    "birthDate": "1990-05-30",
+    "team": "Philadelphia Phillies"
+  },
+  {
+    "id": 607481,
+    "fullName": "Aaron Bummer",
+    "birthDate": "1993-09-21",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 680735,
+    "fullName": "Austin Cox",
+    "birthDate": "1997-03-28",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 663586,
+    "fullName": "Austin Riley",
+    "birthDate": "1997-04-02",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 693821,
+    "fullName": "Bryce Elder",
+    "birthDate": "1999-05-19",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 678226,
+    "fullName": "Daysbel Hernández",
+    "birthDate": "1996-09-15",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 800311,
+    "fullName": "Didier Fuentes",
+    "birthDate": "2005-06-17",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 686948,
+    "fullName": "Drake Baldwin",
+    "birthDate": "2001-03-28",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 669276,
+    "fullName": "Dylan Lee",
+    "birthDate": "1994-08-01",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 642201,
+    "fullName": "Eli White",
+    "birthDate": "1994-06-26",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 660853,
+    "fullName": "Enyel De Los Santos",
+    "birthDate": "1995-12-25",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 656550,
+    "fullName": "Grant Holmes",
+    "birthDate": "1996-03-22",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 445926,
+    "fullName": "Jesse Chavez",
+    "birthDate": "1983-08-21",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 595777,
+    "fullName": "Jurickson Profar",
+    "birthDate": "1993-02-20",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 663897,
+    "fullName": "Luke Williams",
+    "birthDate": "1996-08-09",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 542303,
+    "fullName": "Marcell Ozuna",
+    "birthDate": "1990-11-12",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 621566,
+    "fullName": "Matt Olson",
+    "birthDate": "1994-03-29",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 671739,
+    "fullName": "Michael Harris II",
+    "birthDate": "2001-03-07",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 669397,
+    "fullName": "Nick Allen",
+    "birthDate": "1998-10-08",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 645277,
+    "fullName": "Ozzie Albies",
+    "birthDate": "1997-01-07",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 572955,
+    "fullName": "Pierce Johnson",
+    "birthDate": "1991-05-10",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 606160,
+    "fullName": "Rafael Montero",
+    "birthDate": "1990-10-17",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 628452,
+    "fullName": "Raisel Iglesias",
+    "birthDate": "1990-01-04",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 660670,
+    "fullName": "Ronald Acuña Jr.",
+    "birthDate": "1997-12-18",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 669221,
+    "fullName": "Sean Murphy",
+    "birthDate": "1994-10-04",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 675911,
+    "fullName": "Spencer Strider",
+    "birthDate": "1998-10-28",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 656413,
+    "fullName": "Stuart Fairchild",
+    "birthDate": "1996-03-17",
+    "team": "Atlanta Braves"
+  },
+  {
+    "id": 650644,
+    "fullName": "Aaron Civale",
+    "birthDate": "1995-06-12",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 605288,
+    "fullName": "Adrian Houser",
+    "birthDate": "1993-02-02",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 643217,
+    "fullName": "Andrew Benintendi",
+    "birthDate": "1994-07-06",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 596103,
+    "fullName": "Austin Slater",
+    "birthDate": "1992-12-13",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 685126,
+    "fullName": "Brandon Eisert",
+    "birthDate": "1998-01-19",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 681460,
+    "fullName": "Brooks Baldwin",
+    "birthDate": "2000-08-15",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 805367,
+    "fullName": "Chase Meidroth",
+    "birthDate": "2001-07-23",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 695657,
+    "fullName": "Colson Montgomery",
+    "birthDate": "2002-02-27",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 656186,
+    "fullName": "Dan Altavilla",
+    "birthDate": "1992-09-08",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 700337,
+    "fullName": "Edgar Quero",
+    "birthDate": "2003-04-06",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 691799,
+    "fullName": "Grant Taylor",
+    "birthDate": "2002-05-20",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 686563,
+    "fullName": "Jonathan Cannon",
+    "birthDate": "2000-07-19",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 673929,
+    "fullName": "Jordan Leasure",
+    "birthDate": "1998-08-15",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 668942,
+    "fullName": "Josh Rojas",
+    "birthDate": "1994-06-30",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 691019,
+    "fullName": "Kyle Teel",
+    "birthDate": "2002-02-15",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 672820,
+    "fullName": "Lenyn Sosa",
+    "birthDate": "2000-01-25",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 572191,
+    "fullName": "Michael A. Taylor",
+    "birthDate": "1991-03-26",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 678246,
+    "fullName": "Miguel Vargas",
+    "birthDate": "1999-11-17",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 643565,
+    "fullName": "Mike Tauchman",
+    "birthDate": "1990-12-03",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 678024,
+    "fullName": "Mike Vasil",
+    "birthDate": "2000-03-19",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 676116,
+    "fullName": "Ryan Noda",
+    "birthDate": "1996-03-30",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 680732,
+    "fullName": "Sean Burke",
+    "birthDate": "1999-12-18",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 681343,
+    "fullName": "Shane Smith",
+    "birthDate": "2000-04-04",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 621051,
+    "fullName": "Steven Wilson",
+    "birthDate": "1994-08-24",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 641302,
+    "fullName": "Tyler Alexander",
+    "birthDate": "1994-07-14",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 656457,
+    "fullName": "Tyler Gilbert",
+    "birthDate": "1993-12-22",
+    "team": "Chicago White Sox"
+  },
+  {
+    "id": 682663,
+    "fullName": "Agustín Ramírez",
+    "birthDate": "2001-09-10",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 669622,
+    "fullName": "Anthony Bender",
+    "birthDate": "1995-02-03",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 806188,
+    "fullName": "Cade Gibson",
+    "birthDate": "1998-02-18",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 615698,
+    "fullName": "Cal Quantrill",
+    "birthDate": "1995-02-10",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 676534,
+    "fullName": "Calvin Faucher",
+    "birthDate": "1995-09-22",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 681393,
+    "fullName": "Connor Norby",
+    "birthDate": "2000-06-08",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 667472,
+    "fullName": "Dane Myers",
+    "birthDate": "1996-03-08",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 656537,
+    "fullName": "Derek Hill",
+    "birthDate": "1995-12-30",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 665795,
+    "fullName": "Edward Cabrera",
+    "birthDate": "1998-04-13",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 676572,
+    "fullName": "Eric Wagaman",
+    "birthDate": "1997-08-14",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 691587,
+    "fullName": "Eury Pérez",
+    "birthDate": "2003-04-15",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 681715,
+    "fullName": "Heriberto Hernandez",
+    "birthDate": "1999-12-16",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 676083,
+    "fullName": "Janson Junk",
+    "birthDate": "1996-01-15",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 691594,
+    "fullName": "Javier Sanoja",
+    "birthDate": "2002-09-03",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 660821,
+    "fullName": "Jesús Sánchez",
+    "birthDate": "1997-10-07",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 681006,
+    "fullName": "Josh Simpson",
+    "birthDate": "1997-08-19",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 669065,
+    "fullName": "Kyle Stowers",
+    "birthDate": "1998-01-02",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 669199,
+    "fullName": "Lake Bachar",
+    "birthDate": "1995-06-03",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 689414,
+    "fullName": "Liam Hicks",
+    "birthDate": "1999-06-02",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 663743,
+    "fullName": "Nick Fortes",
+    "birthDate": "1996-11-11",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 672640,
+    "fullName": "Otto Lopez",
+    "birthDate": "1998-10-01",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 678692,
+    "fullName": "Ronny Henriquez",
+    "birthDate": "2000-06-20",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 645261,
+    "fullName": "Sandy Alcantara",
+    "birthDate": "1995-09-07",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 663969,
+    "fullName": "Tyler Phillips",
+    "birthDate": "1997-10-27",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 678368,
+    "fullName": "Valente Bellozo",
+    "birthDate": "2000-01-04",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 669364,
+    "fullName": "Xavier Edwards",
+    "birthDate": "1999-08-09",
+    "team": "Miami Marlins"
+  },
+  {
+    "id": 592450,
+    "fullName": "Aaron Judge",
+    "birthDate": "1992-04-26",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 683011,
+    "fullName": "Anthony Volpe",
+    "birthDate": "2001-04-28",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 669224,
+    "fullName": "Austin Wells",
+    "birthDate": "1999-07-12",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 700250,
+    "fullName": "Ben Rice",
+    "birthDate": "1999-02-22",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 607074,
+    "fullName": "Carlos Rodón",
+    "birthDate": "1992-12-10",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 641355,
+    "fullName": "Cody Bellinger",
+    "birthDate": "1995-07-13",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 518934,
+    "fullName": "DJ LeMahieu",
+    "birthDate": "1988-07-13",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 642207,
+    "fullName": "Devin Williams",
+    "birthDate": "1994-09-21",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 664129,
+    "fullName": "Geoff Hartlieb",
+    "birthDate": "1993-12-09",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 519317,
+    "fullName": "Giancarlo Stanton",
+    "birthDate": "1989-11-08",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 641656,
+    "fullName": "Ian Hamilton",
+    "birthDate": "1995-06-16",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 641555,
+    "fullName": "J.C. Escarra",
+    "birthDate": "1995-04-24",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 664141,
+    "fullName": "JT Brubaker",
+    "birthDate": "1993-11-17",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 691176,
+    "fullName": "Jasson Domínguez",
+    "birthDate": "2003-02-07",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 665862,
+    "fullName": "Jazz Chisholm Jr.",
+    "birthDate": "1998-02-01",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 642528,
+    "fullName": "Jonathan Loáisiga",
+    "birthDate": "1994-11-02",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 596133,
+    "fullName": "Luke Weaver",
+    "birthDate": "1993-08-21",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 573186,
+    "fullName": "Marcus Stroman",
+    "birthDate": "1991-05-01",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 643410,
+    "fullName": "Mark Leiter Jr.",
+    "birthDate": "1991-03-13",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 608331,
+    "fullName": "Max Fried",
+    "birthDate": "1994-01-18",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 672724,
+    "fullName": "Oswald Peraza",
+    "birthDate": "2000-06-15",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 502671,
+    "fullName": "Paul Goldschmidt",
+    "birthDate": "1987-09-10",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 664123,
+    "fullName": "Scott Effross",
+    "birthDate": "1993-12-28",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 657612,
+    "fullName": "Tim Hill",
+    "birthDate": "1990-02-10",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 663757,
+    "fullName": "Trent Grisham",
+    "birthDate": "1996-11-01",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 701542,
+    "fullName": "Will Warren",
+    "birthDate": "1999-06-16",
+    "team": "New York Yankees"
+  },
+  {
+    "id": 676879,
+    "fullName": "Aaron Ashby",
+    "birthDate": "1998-05-24",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 682842,
+    "fullName": "Abner Uribe",
+    "birthDate": "2000-06-20",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 655316,
+    "fullName": "Andruw Monasterio",
+    "birthDate": "1997-05-30",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 678011,
+    "fullName": "Anthony Seigler",
+    "birthDate": "1999-06-20",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 605540,
+    "fullName": "Brandon Woodruff",
+    "birthDate": "1993-02-10",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 668930,
+    "fullName": "Brice Turang",
+    "birthDate": "1999-11-21",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 702332,
+    "fullName": "Caleb Durbin",
+    "birthDate": "2000-02-22",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 592885,
+    "fullName": "Christian Yelich",
+    "birthDate": "1991-12-05",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 669084,
+    "fullName": "DL Hall",
+    "birthDate": "1998-09-19",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 668834,
+    "fullName": "Easton McGee",
+    "birthDate": "1997-12-26",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 606992,
+    "fullName": "Eric Haase",
+    "birthDate": "1992-12-18",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 642547,
+    "fullName": "Freddy Peralta",
+    "birthDate": "1996-06-04",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 681982,
+    "fullName": "Grant Anderson",
+    "birthDate": "1997-06-21",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 686555,
+    "fullName": "Isaac Collins",
+    "birthDate": "1997-07-22",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 694192,
+    "fullName": "Jackson Chourio",
+    "birthDate": "2004-03-11",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 694819,
+    "fullName": "Jacob Misiorowski",
+    "birthDate": "2002-04-03",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 641343,
+    "fullName": "Jake Bauers",
+    "birthDate": "1995-10-06",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 657649,
+    "fullName": "Jared Koenig",
+    "birthDate": "1994-01-24",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 687401,
+    "fullName": "Joey Ortiz",
+    "birthDate": "1998-07-14",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 500779,
+    "fullName": "Jose Quintana",
+    "birthDate": "1989-01-24",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 683232,
+    "fullName": "Nick Mears",
+    "birthDate": "1996-10-07",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 682990,
+    "fullName": "Quinn Priester",
+    "birthDate": "2000-09-16",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 656555,
+    "fullName": "Rhys Hoskins",
+    "birthDate": "1993-03-17",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 686217,
+    "fullName": "Sal Frelick",
+    "birthDate": "2000-04-19",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 656730,
+    "fullName": "Trevor Megill",
+    "birthDate": "1993-12-05",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 661388,
+    "fullName": "William Contreras",
+    "birthDate": "1997-12-24",
+    "team": "Milwaukee Brewers"
+  },
+  {
+    "id": 656271,
+    "fullName": "Brock Burke",
+    "birthDate": "1996-08-04",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 677060,
+    "fullName": "Chad Stevens",
+    "birthDate": "1999-02-03",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 641401,
+    "fullName": "Connor Brogdon",
+    "birthDate": "1995-01-29",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 672569,
+    "fullName": "Gustavo Campero",
+    "birthDate": "1997-09-20",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 519326,
+    "fullName": "Hunter Strickland",
+    "birthDate": "1988-09-24",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 686799,
+    "fullName": "Jack Kochanowicz",
+    "birthDate": "2000-12-22",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 666176,
+    "fullName": "Jo Adell",
+    "birthDate": "1999-04-08",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 624585,
+    "fullName": "Jorge Soler",
+    "birthDate": "1992-02-25",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 820862,
+    "fullName": "José Fermin",
+    "birthDate": "2001-11-28",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 667755,
+    "fullName": "José Soriano",
+    "birthDate": "1998-10-20",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 445276,
+    "fullName": "Kenley Jansen",
+    "birthDate": "1987-09-30",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 621028,
+    "fullName": "Kevin Newman",
+    "birthDate": "1993-08-04",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 543294,
+    "fullName": "Kyle Hendricks",
+    "birthDate": "1989-12-07",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 664774,
+    "fullName": "LaMonte Wade Jr.",
+    "birthDate": "1994-01-01",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 681351,
+    "fullName": "Logan O'Hoppe",
+    "birthDate": "2000-02-09",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 650859,
+    "fullName": "Luis Rengifo",
+    "birthDate": "1997-02-26",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 545361,
+    "fullName": "Mike Trout",
+    "birthDate": "1991-08-07",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 694384,
+    "fullName": "Nolan Schanuel",
+    "birthDate": "2002-02-14",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 672282,
+    "fullName": "Reid Detmers",
+    "birthDate": "1999-07-08",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 666171,
+    "fullName": "Ryan Zeferjahn",
+    "birthDate": "1998-02-28",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 696147,
+    "fullName": "Sam Bachman",
+    "birthDate": "1999-09-30",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 621493,
+    "fullName": "Taylor Ward",
+    "birthDate": "1993-12-14",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 518595,
+    "fullName": "Travis d'Arnaud",
+    "birthDate": "1989-02-10",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 542881,
+    "fullName": "Tyler Anderson",
+    "birthDate": "1989-12-30",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 579328,
+    "fullName": "Yusei Kikuchi",
+    "birthDate": "1991-06-17",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 687263,
+    "fullName": "Zach Neto",
+    "birthDate": "2001-01-31",
+    "team": "Los Angeles Angels"
+  },
+  {
+    "id": 677950,
+    "fullName": "Alek Thomas",
+    "birthDate": "2000-04-28",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 543101,
+    "fullName": "Anthony DeSclafani",
+    "birthDate": "1990-04-18",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 677942,
+    "fullName": "Blaze Alexander",
+    "birthDate": "1999-06-11",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 694297,
+    "fullName": "Brandon Pfaadt",
+    "birthDate": "1998-10-15",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 686826,
+    "fullName": "Bryce Jarvis",
+    "birthDate": "1997-12-26",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 682998,
+    "fullName": "Corbin Carroll",
+    "birthDate": "2000-08-21",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 593958,
+    "fullName": "Eduardo Rodriguez",
+    "birthDate": "1993-04-07",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 553993,
+    "fullName": "Eugenio Suárez",
+    "birthDate": "1991-07-18",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 672695,
+    "fullName": "Geraldo Perdomo",
+    "birthDate": "1999-10-22",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 664983,
+    "fullName": "Jake McCarthy",
+    "birthDate": "1997-07-30",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 663765,
+    "fullName": "Jake Woodford",
+    "birthDate": "1996-10-28",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 656222,
+    "fullName": "Jalen Beeks",
+    "birthDate": "1993-07-10",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 543510,
+    "fullName": "James McCann",
+    "birthDate": "1990-06-13",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 595928,
+    "fullName": "John Curtiss",
+    "birthDate": "1993-04-05",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 645444,
+    "fullName": "Jose Herrera",
+    "birthDate": "1997-02-24",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 647304,
+    "fullName": "Josh Naylor",
+    "birthDate": "1997-06-22",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 606466,
+    "fullName": "Ketel Marte",
+    "birthDate": "1993-10-12",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 656464,
+    "fullName": "Kevin Ginkel",
+    "birthDate": "1994-03-24",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 679775,
+    "fullName": "Kyle Backhus",
+    "birthDate": "1998-01-31",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 666971,
+    "fullName": "Lourdes Gurriel Jr.",
+    "birthDate": "1993-10-10",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 518876,
+    "fullName": "Merrill Kelly",
+    "birthDate": "1988-10-14",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 656976,
+    "fullName": "Pavin Smith",
+    "birthDate": "1996-02-06",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 545341,
+    "fullName": "Randal Grichuk",
+    "birthDate": "1991-08-13",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 669194,
+    "fullName": "Ryne Nelson",
+    "birthDate": "1998-02-01",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 571946,
+    "fullName": "Shelby Miller",
+    "birthDate": "1990-10-10",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 668678,
+    "fullName": "Zac Gallen",
+    "birthDate": "1995-08-03",
+    "team": "Arizona Diamondbacks"
+  },
+  {
+    "id": 656577,
+    "fullName": "Alex Jackson",
+    "birthDate": "1995-12-25",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 552640,
+    "fullName": "Andrew Kittredge",
+    "birthDate": "1990-03-17",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 687064,
+    "fullName": "Brandon Young",
+    "birthDate": "1998-08-19",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 641329,
+    "fullName": "Bryan Baker",
+    "birthDate": "1994-12-02",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 656775,
+    "fullName": "Cedric Mullins",
+    "birthDate": "1994-10-01",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 450203,
+    "fullName": "Charlie Morton",
+    "birthDate": "1983-11-12",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 691723,
+    "fullName": "Coby Mayo",
+    "birthDate": "2001-12-10",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 681297,
+    "fullName": "Colton Cowser",
+    "birthDate": "2000-03-20",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 656686,
+    "fullName": "Corbin Martin",
+    "birthDate": "1995-12-28",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 665152,
+    "fullName": "Dean Kremer",
+    "birthDate": "1996-01-07",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 642585,
+    "fullName": "Félix Bautista",
+    "birthDate": "1995-06-20",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 642397,
+    "fullName": "Gregory Soto",
+    "birthDate": "1995-02-11",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 683002,
+    "fullName": "Gunnar Henderson",
+    "birthDate": "2001-06-29",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 702616,
+    "fullName": "Jackson Holliday",
+    "birthDate": "2003-12-04",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 607732,
+    "fullName": "Jacob Stallings",
+    "birthDate": "1989-12-22",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 676059,
+    "fullName": "Jordan Westburg",
+    "birthDate": "1999-02-18",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 676679,
+    "fullName": "Luis Vázquez",
+    "birthDate": "1999-10-10",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 657656,
+    "fullName": "Ramón Laureano",
+    "birthDate": "1994-07-15",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 602104,
+    "fullName": "Ramón Urías",
+    "birthDate": "1994-06-03",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 656811,
+    "fullName": "Ryan O'Hearn",
+    "birthDate": "1993-07-26",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 656240,
+    "fullName": "Scott Blewett",
+    "birthDate": "1996-04-10",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 622554,
+    "fullName": "Seranthony Domínguez",
+    "birthDate": "1994-11-25",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 608372,
+    "fullName": "Tomoyuki Sugano",
+    "birthDate": "1989-10-11",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 669432,
+    "fullName": "Trevor Rogers",
+    "birthDate": "1997-11-13",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 641933,
+    "fullName": "Tyler O'Neill",
+    "birthDate": "1995-06-22",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 666974,
+    "fullName": "Yennier Cano",
+    "birthDate": "1994-03-09",
+    "team": "Baltimore Orioles"
+  },
+  {
+    "id": 647351,
+    "fullName": "Abraham Toro",
+    "birthDate": "1996-12-20",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 547973,
+    "fullName": "Aroldis Chapman",
+    "birthDate": "1988-02-28",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 678394,
+    "fullName": "Brayan Bello",
+    "birthDate": "1999-05-17",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 657514,
+    "fullName": "Brennan Bernardino",
+    "birthDate": "1992-01-15",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 665966,
+    "fullName": "Carlos Narváez",
+    "birthDate": "1998-11-26",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 678882,
+    "fullName": "Ceddanne Rafaela",
+    "birthDate": "2000-09-18",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 669684,
+    "fullName": "Chris Murphy",
+    "birthDate": "1998-06-05",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 657136,
+    "fullName": "Connor Wong",
+    "birthDate": "1996-05-19",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 666152,
+    "fullName": "David Hamilton",
+    "birthDate": "1997-09-29",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 676979,
+    "fullName": "Garrett Crochet",
+    "birthDate": "1999-06-21",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 676477,
+    "fullName": "Garrett Whitlock",
+    "birthDate": "1996-06-11",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 669711,
+    "fullName": "Greg Weissert",
+    "birthDate": "1995-02-04",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 680776,
+    "fullName": "Jarren Duran",
+    "birthDate": "1996-09-05",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 663855,
+    "fullName": "Jordan Hicks",
+    "birthDate": "1996-09-06",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 660896,
+    "fullName": "Jorge Alcala",
+    "birthDate": "1995-07-28",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 458677,
+    "fullName": "Justin Wilson",
+    "birthDate": "1987-08-18",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 608337,
+    "fullName": "Lucas Giolito",
+    "birthDate": "1994-07-14",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 691785,
+    "fullName": "Marcelo Mayer",
+    "birthDate": "2002-12-12",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 681987,
+    "fullName": "Nate Eaton",
+    "birthDate": "1996-12-22",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 690916,
+    "fullName": "Richard Fitts",
+    "birthDate": "1999-12-17",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 608701,
+    "fullName": "Rob Refsnyder",
+    "birthDate": "1991-03-26",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 701350,
+    "fullName": "Roman Anthony",
+    "birthDate": "2004-05-13",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 663853,
+    "fullName": "Romy Gonzalez",
+    "birthDate": "1996-09-06",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 596115,
+    "fullName": "Trevor Story",
+    "birthDate": "1992-11-15",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 621111,
+    "fullName": "Walker Buehler",
+    "birthDate": "1994-07-28",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 677800,
+    "fullName": "Wilyer Abreu",
+    "birthDate": "1999-06-24",
+    "team": "Boston Red Sox"
+  },
+  {
+    "id": 641745,
+    "fullName": "Brad Keller",
+    "birthDate": "1995-07-27",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 690990,
+    "fullName": "Cade Horton",
+    "birthDate": "2001-08-20",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 573204,
+    "fullName": "Caleb Thielbar",
+    "birthDate": "1987-01-31",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 608348,
+    "fullName": "Carson Kelly",
+    "birthDate": "1994-07-14",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 623167,
+    "fullName": "Chris Flexen",
+    "birthDate": "1994-07-01",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 607067,
+    "fullName": "Colin Rea",
+    "birthDate": "1990-07-01",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 694037,
+    "fullName": "Daniel Palencia",
+    "birthDate": "2000-02-05",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 621020,
+    "fullName": "Dansby Swanson",
+    "birthDate": "1994-02-11",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 519141,
+    "fullName": "Drew Pomeranz",
+    "birthDate": "1988-11-22",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 664023,
+    "fullName": "Ian Happ",
+    "birthDate": "1994-08-12",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 542932,
+    "fullName": "Jon Berti",
+    "birthDate": "1990-01-22",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 696136,
+    "fullName": "Jordan Wicks",
+    "birthDate": "1999-09-01",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 457759,
+    "fullName": "Justin Turner",
+    "birthDate": "1984-11-23",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 663656,
+    "fullName": "Kyle Tucker",
+    "birthDate": "1997-01-17",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 807713,
+    "fullName": "Matt Shaw",
+    "birthDate": "2001-11-06",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 571510,
+    "fullName": "Matthew Boyd",
+    "birthDate": "1991-02-02",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 683737,
+    "fullName": "Michael Busch",
+    "birthDate": "1997-11-09",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 663538,
+    "fullName": "Nico Hoerner",
+    "birthDate": "1997-05-13",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 691718,
+    "fullName": "Pete Crow-Armstrong",
+    "birthDate": "2002-03-25",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 687863,
+    "fullName": "Porter Hodge",
+    "birthDate": "2001-02-21",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 624512,
+    "fullName": "Reese McGuire",
+    "birthDate": "1995-03-02",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 518489,
+    "fullName": "Ryan Brasier",
+    "birthDate": "1987-08-26",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 519151,
+    "fullName": "Ryan Pressly",
+    "birthDate": "1988-12-15",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 673548,
+    "fullName": "Seiya Suzuki",
+    "birthDate": "1994-08-18",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 684007,
+    "fullName": "Shota Imanaga",
+    "birthDate": "1993-09-01",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 660644,
+    "fullName": "Vidal Bruján",
+    "birthDate": "1998-02-09",
+    "team": "Chicago Cubs"
+  },
+  {
+    "id": 671096,
+    "fullName": "Andrew Abbott",
+    "birthDate": "1999-06-01",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 669720,
+    "fullName": "Austin Hays",
+    "birthDate": "1995-07-05",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 663903,
+    "fullName": "Brady Singer",
+    "birthDate": "1996-08-04",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 608718,
+    "fullName": "Brent Suter",
+    "birthDate": "1989-08-29",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 695505,
+    "fullName": "Chase Burns",
+    "birthDate": "2003-01-16",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 687952,
+    "fullName": "Christian Encarnacion-Strand",
+    "birthDate": "1999-12-01",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 682829,
+    "fullName": "Elly De La Cruz",
+    "birthDate": "2002-01-11",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 641941,
+    "fullName": "Emilio Pagán",
+    "birthDate": "1991-05-07",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 666158,
+    "fullName": "Gavin Lux",
+    "birthDate": "1997-11-23",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 668933,
+    "fullName": "Graham Ashcraft",
+    "birthDate": "1998-02-11",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 624431,
+    "fullName": "Jose Trevino",
+    "birthDate": "1992-11-28",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 680689,
+    "fullName": "Lyon Richardson",
+    "birthDate": "2000-01-18",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 680574,
+    "fullName": "Matt McLain",
+    "birthDate": "1999-08-06",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 666157,
+    "fullName": "Nick Lodolo",
+    "birthDate": "1998-02-05",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 607259,
+    "fullName": "Nick Martinez",
+    "birthDate": "1990-08-05",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 682622,
+    "fullName": "Noelvi Marte",
+    "birthDate": "2001-10-16",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 677956,
+    "fullName": "Rece Hinds",
+    "birthDate": "2000-09-05",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 594580,
+    "fullName": "Sam Moll",
+    "birthDate": "1992-01-03",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 669289,
+    "fullName": "Santiago Espinal",
+    "birthDate": "1994-11-13",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 605130,
+    "fullName": "Scott Barlow",
+    "birthDate": "1992-12-18",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 668715,
+    "fullName": "Spencer Steer",
+    "birthDate": "1997-12-07",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 670770,
+    "fullName": "TJ Friedl",
+    "birthDate": "1995-08-14",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 573124,
+    "fullName": "Taylor Rogers",
+    "birthDate": "1990-12-17",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 663574,
+    "fullName": "Tony Santillan",
+    "birthDate": "1997-04-15",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 663886,
+    "fullName": "Tyler Stephenson",
+    "birthDate": "1996-08-16",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 666181,
+    "fullName": "Will Benson",
+    "birthDate": "1998-06-16",
+    "team": "Cincinnati Reds"
+  },
+  {
+    "id": 682657,
+    "fullName": "Angel Martínez",
+    "birthDate": "2002-01-27",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 595978,
+    "fullName": "Austin Hedges",
+    "birthDate": "1992-08-18",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 666310,
+    "fullName": "Bo Naylor",
+    "birthDate": "2000-02-21",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 677587,
+    "fullName": "Brayan Rocchio",
+    "birthDate": "2001-01-13",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 671922,
+    "fullName": "Cade Smith",
+    "birthDate": "1999-05-09",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 467793,
+    "fullName": "Carlos Santana",
+    "birthDate": "1986-04-08",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 682177,
+    "fullName": "Daniel Schneemann",
+    "birthDate": "1997-01-23",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 681807,
+    "fullName": "David Fry",
+    "birthDate": "1995-11-20",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 661403,
+    "fullName": "Emmanuel Clase",
+    "birthDate": "1998-03-18",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 681870,
+    "fullName": "Erik Sabrowski",
+    "birthDate": "1997-10-31",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 668909,
+    "fullName": "Gavin Williams",
+    "birthDate": "1999-07-26",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 683769,
+    "fullName": "Hunter Gaddis",
+    "birthDate": "1998-04-09",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 596001,
+    "fullName": "Jakob Junis",
+    "birthDate": "1992-09-16",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 676282,
+    "fullName": "Joey Cantillo",
+    "birthDate": "1999-12-18",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 671286,
+    "fullName": "Johnathan Rodríguez",
+    "birthDate": "1999-11-04",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 608070,
+    "fullName": "José Ramírez",
+    "birthDate": "1992-09-17",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 700932,
+    "fullName": "Kyle Manzardo",
+    "birthDate": "2000-07-18",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 671106,
+    "fullName": "Logan Allen",
+    "birthDate": "1998-09-05",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 670036,
+    "fullName": "Matt Festa",
+    "birthDate": "1993-03-11",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 666134,
+    "fullName": "Nolan Jones",
+    "birthDate": "1998-05-07",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 623149,
+    "fullName": "Paul Sewald",
+    "birthDate": "1990-05-26",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 677944,
+    "fullName": "Slade Cecconi",
+    "birthDate": "1999-06-24",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 680757,
+    "fullName": "Steven Kwan",
+    "birthDate": "1997-09-05",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 676440,
+    "fullName": "Tanner Bibee",
+    "birthDate": "1999-03-05",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 682120,
+    "fullName": "Tim Herrin",
+    "birthDate": "1996-10-08",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 669717,
+    "fullName": "Will Wilson",
+    "birthDate": "1998-07-21",
+    "team": "Cleveland Guardians"
+  },
+  {
+    "id": 622608,
+    "fullName": "Antonio Senzatela",
+    "birthDate": "1995-01-21",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 596295,
+    "fullName": "Austin Gomber",
+    "birthDate": "1993-11-23",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 543592,
+    "fullName": "Austin Nola",
+    "birthDate": "1989-12-28",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 686668,
+    "fullName": "Brenton Doyle",
+    "birthDate": "1998-05-14",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 801403,
+    "fullName": "Chase Dollander",
+    "birthDate": "2001-10-26",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 608566,
+    "fullName": "Germán Márquez",
+    "birthDate": "1995-02-22",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 696100,
+    "fullName": "Hunter Goodman",
+    "birthDate": "1999-10-08",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 656234,
+    "fullName": "Jake Bird",
+    "birthDate": "1995-12-04",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 623474,
+    "fullName": "Jimmy Herget",
+    "birthDate": "1993-09-09",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 687597,
+    "fullName": "Jordan Beck",
+    "birthDate": "2001-04-19",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 675848,
+    "fullName": "Juan Mejia",
+    "birthDate": "2000-07-04",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 571657,
+    "fullName": "Kyle Farmer",
+    "birthDate": "1990-08-17",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 607536,
+    "fullName": "Kyle Freeland",
+    "birthDate": "1993-05-14",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 669911,
+    "fullName": "Michael Toglia",
+    "birthDate": "1998-08-16",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 666160,
+    "fullName": "Mickey Moniak",
+    "birthDate": "1998-05-13",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 606115,
+    "fullName": "Orlando Arcia",
+    "birthDate": "1994-08-04",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 641857,
+    "fullName": "Ryan McMahon",
+    "birthDate": "1994-12-14",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 690022,
+    "fullName": "Ryan Ritter",
+    "birthDate": "2000-11-10",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 669020,
+    "fullName": "Ryan Rolison",
+    "birthDate": "1997-07-11",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 678020,
+    "fullName": "Seth Halvorsen",
+    "birthDate": "2000-02-18",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 642731,
+    "fullName": "Thairo Estrada",
+    "birthDate": "1996-02-22",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 671289,
+    "fullName": "Tyler Freeman",
+    "birthDate": "1999-05-21",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 641755,
+    "fullName": "Tyler Kinley",
+    "birthDate": "1991-01-31",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 680767,
+    "fullName": "Victor Vodnik",
+    "birthDate": "1999-10-09",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 692585,
+    "fullName": "Yanquiel Fernández",
+    "birthDate": "2003-01-01",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 688642,
+    "fullName": "Zach Agnos",
+    "birthDate": "2000-08-15",
+    "team": "Colorado Rockies"
+  },
+  {
+    "id": 690544,
+    "fullName": "Bailey Horn",
+    "birthDate": "1998-01-15",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 676428,
+    "fullName": "Brant Hurter",
+    "birthDate": "1998-09-06",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 669724,
+    "fullName": "Brenan Hanifee",
+    "birthDate": "1998-05-29",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 672578,
+    "fullName": "Carlos Hernández",
+    "birthDate": "1997-03-11",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 663554,
+    "fullName": "Casey Mize",
+    "birthDate": "1997-05-01",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 695445,
+    "fullName": "Chase Lee",
+    "birthDate": "1998-08-13",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 690993,
+    "fullName": "Colt Keith",
+    "birthDate": "2001-08-14",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 608650,
+    "fullName": "Dietrich Enns",
+    "birthDate": "1991-05-16",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 693307,
+    "fullName": "Dillon Dingler",
+    "birthDate": "1998-09-17",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 650402,
+    "fullName": "Gleyber Torres",
+    "birthDate": "1996-12-13",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 656427,
+    "fullName": "Jack Flaherty",
+    "birthDate": "1995-10-15",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 663330,
+    "fullName": "Jahmai Jones",
+    "birthDate": "1997-08-04",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 668670,
+    "fullName": "Jake Rogers",
+    "birthDate": "1995-04-18",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 595879,
+    "fullName": "Javier Báez",
+    "birthDate": "1992-12-01",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 663837,
+    "fullName": "Matt Vierling",
+    "birthDate": "1996-09-16",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 678009,
+    "fullName": "Parker Meadows",
+    "birthDate": "1999-11-02",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 681857,
+    "fullName": "Reese Olson",
+    "birthDate": "1999-07-31",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 682985,
+    "fullName": "Riley Greene",
+    "birthDate": "2000-09-28",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 679529,
+    "fullName": "Spencer Torkelson",
+    "birthDate": "1999-08-26",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 669373,
+    "fullName": "Tarik Skubal",
+    "birthDate": "1996-11-20",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 592454,
+    "fullName": "Tommy Kahnle",
+    "birthDate": "1989-08-07",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 700242,
+    "fullName": "Trey Sweeney",
+    "birthDate": "2000-04-24",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 663947,
+    "fullName": "Tyler Holton",
+    "birthDate": "1996-06-13",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 672761,
+    "fullName": "Wenceel Pérez",
+    "birthDate": "1999-10-30",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 676684,
+    "fullName": "Will Vest",
+    "birthDate": "1995-06-06",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 656716,
+    "fullName": "Zach McKinstry",
+    "birthDate": "1995-04-29",
+    "team": "Detroit Tigers"
+  },
+  {
+    "id": 656986,
+    "fullName": "Bennett Sousa",
+    "birthDate": "1995-04-06",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 687888,
+    "fullName": "Brandon Walter",
+    "birthDate": "1996-09-08",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 650556,
+    "fullName": "Bryan Abreu",
+    "birthDate": "1997-04-22",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 687911,
+    "fullName": "Bryan King",
+    "birthDate": "1996-11-05",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 701358,
+    "fullName": "Cam Smith",
+    "birthDate": "2003-02-22",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 663967,
+    "fullName": "César Salazar",
+    "birthDate": "1996-03-15",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 572233,
+    "fullName": "Christian Walker",
+    "birthDate": "1991-03-28",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 676467,
+    "fullName": "Colton Gordon",
+    "birthDate": "1998-12-20",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 669450,
+    "fullName": "Cooper Hummel",
+    "birthDate": "1994-11-28",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 664285,
+    "fullName": "Framber Valdez",
+    "birthDate": "1993-11-19",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 593576,
+    "fullName": "Héctor Neris",
+    "birthDate": "1989-06-14",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 686613,
+    "fullName": "Hunter Brown",
+    "birthDate": "1998-08-29",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 670623,
+    "fullName": "Isaac Paredes",
+    "birthDate": "1999-02-18",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 676694,
+    "fullName": "Jake Meyers",
+    "birthDate": "1996-06-18",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 514888,
+    "fullName": "Jose Altuve",
+    "birthDate": "1990-05-06",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 623352,
+    "fullName": "Josh Hader",
+    "birthDate": "1994-04-07",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 672391,
+    "fullName": "Kaleb Ort",
+    "birthDate": "1992-02-05",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 621121,
+    "fullName": "Lance McCullers Jr.",
+    "birthDate": "1993-10-02",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 643289,
+    "fullName": "Mauricio Dubón",
+    "birthDate": "1994-07-19",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 687473,
+    "fullName": "Ryan Gusto",
+    "birthDate": "1999-03-11",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 694376,
+    "fullName": "Shay Whitcomb",
+    "birthDate": "1998-09-28",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 595345,
+    "fullName": "Steven Okert",
+    "birthDate": "1991-07-09",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 666211,
+    "fullName": "Taylor Trammell",
+    "birthDate": "1997-09-13",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 605170,
+    "fullName": "Victor Caratini",
+    "birthDate": "1993-08-17",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 673237,
+    "fullName": "Yainer Diaz",
+    "birthDate": "1998-09-21",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 670097,
+    "fullName": "Zack Short",
+    "birthDate": "1995-05-29",
+    "team": "Houston Astros"
+  },
+  {
+    "id": 672582,
+    "fullName": "Angel Zerpa",
+    "birthDate": "1999-09-27",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 677951,
+    "fullName": "Bobby Witt Jr.",
+    "birthDate": "2000-06-14",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 608032,
+    "fullName": "Carlos Estévez",
+    "birthDate": "1992-12-28",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 666023,
+    "fullName": "Freddy Fermin",
+    "birthDate": "1995-05-16",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 695506,
+    "fullName": "Jac Caglianone",
+    "birthDate": "2003-02-09",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 670231,
+    "fullName": "John Rave",
+    "birthDate": "1997-12-30",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 670167,
+    "fullName": "John Schreiber",
+    "birthDate": "1994-03-05",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 680742,
+    "fullName": "Jonathan Bowlan",
+    "birthDate": "1996-12-01",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 663697,
+    "fullName": "Jonathan India",
+    "birthDate": "1996-12-15",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 663460,
+    "fullName": "Kris Bubic",
+    "birthDate": "1997-08-19",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 664728,
+    "fullName": "Kyle Isbel",
+    "birthDate": "1997-03-03",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 668674,
+    "fullName": "Lucas Erceg",
+    "birthDate": "1995-05-01",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 571912,
+    "fullName": "Luke Maile",
+    "birthDate": "1991-02-06",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 672580,
+    "fullName": "Maikel Garcia",
+    "birthDate": "2000-03-03",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 592192,
+    "fullName": "Mark Canha",
+    "birthDate": "1989-02-15",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 547179,
+    "fullName": "Michael Lorenzen",
+    "birthDate": "1992-01-04",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 608379,
+    "fullName": "Michael Wacha",
+    "birthDate": "1991-07-01",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 679845,
+    "fullName": "Nick Loftin",
+    "birthDate": "1998-09-25",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 702070,
+    "fullName": "Noah Cameron",
+    "birthDate": "1999-07-17",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 521692,
+    "fullName": "Salvador Perez",
+    "birthDate": "1990-05-10",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 669674,
+    "fullName": "Sam Long",
+    "birthDate": "1995-07-08",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 607625,
+    "fullName": "Seth Lugo",
+    "birthDate": "1989-11-17",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 674444,
+    "fullName": "Steven Cruz",
+    "birthDate": "1999-06-15",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 664199,
+    "fullName": "Taylor Clarke",
+    "birthDate": "1993-05-13",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 686475,
+    "fullName": "Tyler Tolbert",
+    "birthDate": "1998-01-27",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 686469,
+    "fullName": "Vinnie Pasquantino",
+    "birthDate": "1997-10-10",
+    "team": "Kansas City Royals"
+  },
+  {
+    "id": 681911,
+    "fullName": "Alex Vesia",
+    "birthDate": "1996-04-11",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 681624,
+    "fullName": "Andy Pages",
+    "birthDate": "2000-12-08",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 607455,
+    "fullName": "Anthony Banda",
+    "birthDate": "1993-08-10",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 676508,
+    "fullName": "Ben Casparius",
+    "birthDate": "1999-02-11",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 477132,
+    "fullName": "Clayton Kershaw",
+    "birthDate": "1988-03-19",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 687221,
+    "fullName": "Dalton Rushing",
+    "birthDate": "2001-02-21",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 669160,
+    "fullName": "Dustin May",
+    "birthDate": "1997-09-06",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 686218,
+    "fullName": "Emmet Sheehan",
+    "birthDate": "1999-11-15",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 571771,
+    "fullName": "Enrique Hernández",
+    "birthDate": "1991-08-24",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 665923,
+    "fullName": "Esteury Ruiz",
+    "birthDate": "1999-02-15",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 518692,
+    "fullName": "Freddie Freeman",
+    "birthDate": "1989-09-12",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 808975,
+    "fullName": "Hyeseong Kim",
+    "birthDate": "1999-01-27",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 676263,
+    "fullName": "Jack Dreyer",
+    "birthDate": "1999-02-27",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 680736,
+    "fullName": "Justin Wrobleski",
+    "birthDate": "2000-07-14",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 489446,
+    "fullName": "Kirby Yates",
+    "birthDate": "1987-03-25",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 642152,
+    "fullName": "Lou Trivino",
+    "birthDate": "1991-10-01",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 624424,
+    "fullName": "Michael Conforto",
+    "birthDate": "1993-03-01",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 500743,
+    "fullName": "Miguel Rojas",
+    "birthDate": "1989-02-24",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 605141,
+    "fullName": "Mookie Betts",
+    "birthDate": "1992-10-07",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 660271,
+    "fullName": "Shohei Ohtani",
+    "birthDate": "1994-07-05",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 656945,
+    "fullName": "Tanner Scott",
+    "birthDate": "1994-07-22",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 606192,
+    "fullName": "Teoscar Hernández",
+    "birthDate": "1992-10-15",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 669242,
+    "fullName": "Tommy Edman",
+    "birthDate": "1995-05-09",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 694361,
+    "fullName": "Will Klein",
+    "birthDate": "1999-11-28",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 669257,
+    "fullName": "Will Smith",
+    "birthDate": "1995-03-28",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 808967,
+    "fullName": "Yoshinobu Yamamoto",
+    "birthDate": "1998-08-17",
+    "team": "Los Angeles Dodgers"
+  },
+  {
+    "id": 669743,
+    "fullName": "Alex Call",
+    "birthDate": "1994-09-27",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 642708,
+    "fullName": "Amed Rosario",
+    "birthDate": "1995-11-20",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 605177,
+    "fullName": "Andrew Chafin",
+    "birthDate": "1990-06-17",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 695418,
+    "fullName": "Brad Lord",
+    "birthDate": "2000-02-14",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 691781,
+    "fullName": "Brady House",
+    "birthDate": "2003-06-04",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 682928,
+    "fullName": "CJ Abrams",
+    "birthDate": "2000-10-03",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 669371,
+    "fullName": "Cole Henry",
+    "birthDate": "1999-07-15",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 695734,
+    "fullName": "Daylen Lile",
+    "birthDate": "2002-11-30",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 674285,
+    "fullName": "Eduardo Salazar",
+    "birthDate": "1998-05-05",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 671131,
+    "fullName": "Jackson Rutledge",
+    "birthDate": "1999-04-01",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 696285,
+    "fullName": "Jacob Young",
+    "birthDate": "1999-07-27",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 663623,
+    "fullName": "Jake Irvin",
+    "birthDate": "1997-02-18",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 695578,
+    "fullName": "James Wood",
+    "birthDate": "2002-09-17",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 678606,
+    "fullName": "Jose A. Ferrer",
+    "birthDate": "2000-03-03",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 605137,
+    "fullName": "Josh Bell",
+    "birthDate": "1992-08-14",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 660688,
+    "fullName": "Keibert Ruiz",
+    "birthDate": "1998-07-20",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 640448,
+    "fullName": "Kyle Finnegan",
+    "birthDate": "1991-09-04",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 671277,
+    "fullName": "Luis García Jr.",
+    "birthDate": "2000-05-16",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 669022,
+    "fullName": "MacKenzie Gore",
+    "birthDate": "1999-02-24",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 666168,
+    "fullName": "Mason Thompson",
+    "birthDate": "1998-02-20",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 647336,
+    "fullName": "Michael Soroka",
+    "birthDate": "1997-08-04",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 680730,
+    "fullName": "Mitchell Parker",
+    "birthDate": "1999-09-27",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 663993,
+    "fullName": "Nathaniel Lowe",
+    "birthDate": "1995-07-07",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 657557,
+    "fullName": "Paul DeJong",
+    "birthDate": "1993-08-02",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 656180,
+    "fullName": "Riley Adams",
+    "birthDate": "1996-06-26",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 829272,
+    "fullName": "Shinnosuke Ogasawara",
+    "birthDate": "1997-10-08",
+    "team": "Washington Nationals"
+  },
+  {
+    "id": 607043,
+    "fullName": "Brandon Nimmo",
+    "birthDate": "1993-03-27",
+    "team": "New York Mets"
+  },
+  {
+    "id": 663399,
+    "fullName": "Brandon Waddell",
+    "birthDate": "1994-06-03",
+    "team": "New York Mets"
+  },
+  {
+    "id": 683146,
+    "fullName": "Brett Baty",
+    "birthDate": "1999-11-13",
+    "team": "New York Mets"
+  },
+  {
+    "id": 606965,
+    "fullName": "Chris Devenski",
+    "birthDate": "1990-11-13",
+    "team": "New York Mets"
+  },
+  {
+    "id": 605280,
+    "fullName": "Clay Holmes",
+    "birthDate": "1993-03-27",
+    "team": "New York Mets"
+  },
+  {
+    "id": 656849,
+    "fullName": "David Peterson",
+    "birthDate": "1995-09-03",
+    "team": "New York Mets"
+  },
+  {
+    "id": 621242,
+    "fullName": "Edwin Díaz",
+    "birthDate": "1994-03-22",
+    "team": "New York Mets"
+  },
+  {
+    "id": 596019,
+    "fullName": "Francisco Lindor",
+    "birthDate": "1993-11-14",
+    "team": "New York Mets"
+  },
+  {
+    "id": 593423,
+    "fullName": "Frankie Montas",
+    "birthDate": "1993-03-21",
+    "team": "New York Mets"
+  },
+  {
+    "id": 663584,
+    "fullName": "Hayden Senger",
+    "birthDate": "1997-04-03",
+    "team": "New York Mets"
+  },
+  {
+    "id": 623211,
+    "fullName": "Huascar Brazobán",
+    "birthDate": "1989-10-15",
+    "team": "New York Mets"
+  },
+  {
+    "id": 643446,
+    "fullName": "Jeff McNeil",
+    "birthDate": "1992-04-08",
+    "team": "New York Mets"
+  },
+  {
+    "id": 665742,
+    "fullName": "Juan Soto",
+    "birthDate": "1998-10-25",
+    "team": "New York Mets"
+  },
+  {
+    "id": 663795,
+    "fullName": "Justin Hagenman",
+    "birthDate": "1996-10-07",
+    "team": "New York Mets"
+  },
+  {
+    "id": 620443,
+    "fullName": "Luis Torrens",
+    "birthDate": "1996-05-02",
+    "team": "New York Mets"
+  },
+  {
+    "id": 668901,
+    "fullName": "Mark Vientos",
+    "birthDate": "1999-12-11",
+    "team": "New York Mets"
+  },
+  {
+    "id": 624413,
+    "fullName": "Pete Alonso",
+    "birthDate": "1994-12-07",
+    "team": "New York Mets"
+  },
+  {
+    "id": 657585,
+    "fullName": "Reed Garrett",
+    "birthDate": "1993-01-02",
+    "team": "New York Mets"
+  },
+  {
+    "id": 663992,
+    "fullName": "Richard Lovelady",
+    "birthDate": "1995-07-07",
+    "team": "New York Mets"
+  },
+  {
+    "id": 670329,
+    "fullName": "Rico Garcia",
+    "birthDate": "1994-01-10",
+    "team": "New York Mets"
+  },
+  {
+    "id": 677595,
+    "fullName": "Ronny Mauricio",
+    "birthDate": "2001-04-04",
+    "team": "New York Mets"
+  },
+  {
+    "id": 592773,
+    "fullName": "Ryne Stanek",
+    "birthDate": "1991-07-26",
+    "team": "New York Mets"
+  },
+  {
+    "id": 516782,
+    "fullName": "Starling Marte",
+    "birthDate": "1988-10-09",
+    "team": "New York Mets"
+  },
+  {
+    "id": 608671,
+    "fullName": "Travis Jankowski",
+    "birthDate": "1991-06-15",
+    "team": "New York Mets"
+  },
+  {
+    "id": 621438,
+    "fullName": "Tyrone Taylor",
+    "birthDate": "1994-01-22",
+    "team": "New York Mets"
+  },
+  {
+    "id": 647315,
+    "fullName": "Zach Pop",
+    "birthDate": "1996-09-20",
+    "team": "New York Mets"
+  }
+]

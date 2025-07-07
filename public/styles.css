@@ -1,0 +1,58 @@
+body {
+  background-color: #9facaf;
+  color: #f8f9fa;
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.form-container {
+  background-color: #003366;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+  margin-bottom: 2rem;
+}
+
+.player-card {
+  background-color: #13487e;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+
+.player-card img {
+  border-radius: 50%;
+  border: 2px solid #fff;
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.player-info {
+  flex: 1;
+  min-width: 200px;
+}
+
+
+h1, h2, label {
+  color: #ffffff;
+}
+
+select, input[type="number"] {
+  border-radius: 5px;
+}
+
+button {
+  background-color: #0055aa;
+  color: white;
+  border: none;
+}
+
+button:hover {
+  background-color: #0077cc;
+}
